@@ -1,9 +1,9 @@
 //============================================================================
 // Name        : esercizio1maggio.cpp
-// Author      : Vincenzo Martemucci
+// Author      : Vincenzo 
 // Version     :
 // Copyright   : Free
-// Description : Hello World in C++, Ansi-style
+// Description : 
 //============================================================================
 
 #include <iostream>
